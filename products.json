@@ -1,0 +1,14 @@
+{
+    "products":[
+        {
+            "name":"sineklik",
+            "sqrtPrice":10,
+            "image-url":""
+        },
+        {
+            "name":"sineklik-2",
+            "sqrtPrice":15,
+            "image-url":""
+        }
+    ]
+}
