@@ -2,12 +2,12 @@
     "products":[
         {
             "name":"sineklik",
-            "sqrtPrice":10,
+            "sqrPrice":10,
             "image-url":"https://productimages.hepsiburada.net/s/40/500/10684305637426.jpg"
         },
         {
             "name":"sineklik-2",
-            "sqrtPrice":15,
+            "sqrPrice":15,
             "image-url":"https://productimages.hepsiburada.net/s/369/1500/110000386846245.jpg"
         }
     ]
